@@ -1,0 +1,12 @@
+.file-explorer {
+    margin-left: 20px;
+  }
+
+  .folder, .file {
+    cursor: pointer;
+    margin: 5px 0;
+  }
+
+  .folder-content {
+    margin-left: 20px;
+  }

@@ -1,7 +1,5 @@
-
 import React, { useState } from 'react';
-// import MockFileStructure from './MockFileStructure';
-import MockFileStructure from './components/MockFileStructure';
+   import MockFileStructure from './MockFileStructure';
 
    const File = ({ name }) => (
      <div className="file">
@@ -53,16 +51,4 @@ import MockFileStructure from './components/MockFileStructure';
      );
    };
 
-   export default App;
-
-// import React from "react";
-// import "./style.css";
-
-// export default function App() {
-//   return (
-//     <div>
-//       <h1>Hello StackBlitz!</h1>
-//       <p>Start editing to see some magic happen :)</p>
-//     </div>
-//   );
-// }
+  //  export default App;
