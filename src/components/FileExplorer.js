@@ -42,13 +42,13 @@ import React, { useState } from 'react';
      );
    };
 
-   const App = () => {
-     return (
-       <div className="App">
-         <h1>File Explorer</h1>
-         <FileExplorer structure={MockFileStructure} />
-       </div>
-     );
-   };
+  //  const App = () => {
+  //    return (
+  //      <div className="App">
+  //        <h1>File Explorer</h1>
+  //        <FileExplorer structure={MockFileStructure} />
+  //      </div>
+  //    );
+  //  };
 
   //  export default App;

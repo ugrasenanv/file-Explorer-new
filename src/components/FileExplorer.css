@@ -1,0 +1,28 @@
+.file-explorer {
+    padding: 20px;
+  }
+  
+  .controls {
+    margin-bottom: 10px;
+  }
+  
+  .controls button {
+    margin-right: 10px;
+  }
+  
+  .file-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .file-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .file-item span {
+    margin-left: 10px;
+  }
+  
+  
